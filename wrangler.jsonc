@@ -1,5 +1,16 @@
 {
   "name": "nuvemshop-tracking",
   "main": "src/index.js",
-  "compatibility_date": "2026-09-20"
+  "compatibility_date": "2026-09-20",
+  "vars": {
+    "APP_ID": "42904"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "nuvemshop-tracking",
+      "database_id": "09676f3f-88ca-46bb-9928-dc13e1acfadb"
+    }
+  ]
 }
+
