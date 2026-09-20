@@ -2,6 +2,8 @@
   "name": "nuvemshop-tracking",
   "main": "src/index.js",
   "compatibility_date": "2026-09-20",
+  "workers_dev": true,
+  "preview_urls": false,
   "vars": {
     "APP_ID": "42904"
   },
